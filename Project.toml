@@ -4,7 +4,6 @@ version = "0.3.0"
 
 [compat]
 CodecZlib = "0.5.0 - 0.7"
-julia = ["0.7", "1"]
 
 [deps]
 CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
